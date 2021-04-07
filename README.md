@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Data manager for @OceanTrackingNetwork working on:
+- 🔭 Data manager for https://github.com/ocean-tracking-network working on:
    - data systems for sharing animal telemetry data in sensible ways 
    - machine-derived animal presence data standards
    - 
