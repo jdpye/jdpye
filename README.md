@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 Data manager for @OceanTrackingNetwork working on:
+   - data systems for sharing animal telemetry data in sensible ways 
+   - machine-derived animal presence data standards
+   - 
 <!--
 **jdpye/jdpye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
